@@ -11,4 +11,5 @@ Licence
 -------
 
 Licenced under the GPLv3 or later.
+
 © 2015-2026 Namecoin Developers.
